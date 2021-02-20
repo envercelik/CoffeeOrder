@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">PRICE</string>
+    <string name="plus_symbol" translatable="false">+</string>
+    <string name="minus_symbol" translatable="false">-</string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">CHOCOLATE</string>
+    <string name="order_summary">Order summary</string>
+    <string name="enter_your_name">Enter your name</string>
+
+
+
+    <string name="name">Name</string>
+    <string name="add_whipped_cream">Add Whipped Cream :</string>
+    <string name="thank_you">Thank You! </string>
+    <string name="total">Total  </string>
+    <string name="add_chocolate">"Add Chocolate "</string>
+    <string name="order">Order</string>
+
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="mail_subject">Coffee Order</string>
+
+    <string name="currency">$</string>
+
+
+
+
+</resources>

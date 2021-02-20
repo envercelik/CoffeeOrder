@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kahve Siparişi</string>
+    <string name="price">Fiyat</string>
+    <string name="toppings">Extra</string>
+    <string name="whipped_cream">Krema</string>
+    <string name="chocolate">çikolata</string>
+    <string name="order_summary">Sipariş Özeti</string>
+    <string name="enter_your_name">Lütfen isminizi giriniz</string>
+    <string name="name">isim</string>
+    <string name="add_whipped_cream">Krema  ? </string>
+    <string name="add_chocolate">Çikolata ? </string>
+    <string name="thank_you">Teşekkürler!</string>
+    <string name="total">"Toplam  "</string>
+    <string name="quantity">Kahve sayısı</string>
+    <string name="order">Sipariş Ver</string>
+
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+
+    <string name="mail_subject">Kahve Siparişi</string>
+    <string name="currency">tl</string>
+
+</resources>
